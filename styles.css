@@ -2,6 +2,9 @@ body {
   font-family: sans-serif;
   background-attachment: fixed;
   background-size: cover;
+  background-image: url("hatter.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
 }
 
 #content {
@@ -57,4 +60,9 @@ table {
 table {
   margin-right: 20px;
   background-color: rgba(227, 225, 233, 0.3);
+}
+#kiemeles{
+  font-weight: bold;
+  font-family: 'Courier New', Courier, monospace;
+
 }
